@@ -9,4 +9,8 @@ MotorPulse - your helper for managing your car`s history.
 
 <br/>
 
+## 📦 Access the app
+**🚧 UNDER CONSTRACTION 🚧**
+
 ## 🪽 Key features
+**🚧 UNDER CONSTRACTION 🚧**
