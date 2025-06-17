@@ -8,3 +8,5 @@
 MotorPulse - your helper for managing your car`s history.
 
 <br/>
+
+## 🪽 Key features
