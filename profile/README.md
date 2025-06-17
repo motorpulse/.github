@@ -1,4 +1,4 @@
-<img src="https://github.com/XenoPOMP/next-template/assets/101574433/4f668b51-381f-4f1f-8803-f0b6370fd1b5" width="160" align="left" />
+<img src="https://github.com/motorpulse/.github/blob/a2eb0793b8cd3c4e40eeca8b3549bebc3ce31d72/profile/projectIcon.png" width="160" align="left" />
 
 ### MotorPulse
 
